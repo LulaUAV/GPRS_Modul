@@ -1,5 +1,5 @@
 ### WiLARM ContactID GSM
-Version 2101
+Version 2010
 ### Description
 A WiLARM ContactID GSM készülék egy speciális távjelző eszköz, amely képes
 riasztóközpont jelzéseit távfelügyeleti központba továbbítani. Csatlakoztatása a
