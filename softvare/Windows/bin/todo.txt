@@ -1,0 +1,2 @@
+wilalarm.exe -deve
+Elõjön a AT parancs küldõ.
